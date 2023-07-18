@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=antimech&show_icons=true">
+
 ### Hi there 👋
 
 <!--
